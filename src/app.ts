@@ -70,7 +70,7 @@ const fileUploader = catchAsync(async (req: any, res: Response) => {
     res.json({
       success: 1,
       file: {
-        url: `https://sell-safari-blog-server.onrender.com:${config.port}/${imagePath}`,
+        url: `${config.serverLive}/${imagePath}`,
       },
     });
   } catch (error: any) {
@@ -105,7 +105,7 @@ app.post('/api/v1/image/upload/byUrl', catchAsync(async (req: Request, res: Resp
         res.json({
           success: 1,
           file: {
-            url: `https://sell-safari-blog-server.onrender.com:${config.port}/${imagePath}`,
+            url: `${config.serverLive}/${imagePath}`,
           },
         });
       });
