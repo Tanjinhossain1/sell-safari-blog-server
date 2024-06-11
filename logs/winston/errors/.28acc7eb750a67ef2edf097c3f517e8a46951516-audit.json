@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\errors\\.28acc7eb750a67ef2edf097c3f517e8a46951516-audit.json",
+    "files": [
+        {
+            "date": 1718018699264,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\errors\\phu-2024-10-06-17-error.log",
+            "hash": "77985f67d7c3a3ef8538bde537226906957170901918a8958c1d10ce63ca6bc2"
+        },
+        {
+            "date": 1718021103456,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\errors\\phu-2024-10-06-18-error.log",
+            "hash": "194d6a63f7d33d6797595de143615928453c116974cd232e6884c751c06e83c8"
+        },
+        {
+            "date": 1718024818255,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\errors\\phu-2024-10-06-19-error.log",
+            "hash": "86b44153dec8e8470a76a87dcfdb94ad37c95322a26c9e250b9ae8ca5f27c724"
+        },
+        {
+            "date": 1718034698269,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\errors\\phu-2024-10-06-21-error.log",
+            "hash": "4af99387cbd224a79e1ea3a0e5859e97bb2b93a72ebe4980c58ddcf57dedf09b"
+        },
+        {
+            "date": 1718039640162,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\errors\\phu-2024-10-06-23-error.log",
+            "hash": "2826e0dceb9a75b99b2bce7efd7ea788849279655a953ba0d1389877c37c75c9"
+        }
+    ],
+    "hashType": "sha256"
+}

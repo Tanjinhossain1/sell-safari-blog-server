@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\successes\\.2067bc649a5fb051b095771c6bce676694617e43-audit.json",
+    "files": [
+        {
+            "date": 1718018699259,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\successes\\phu-2024-10-06-17-success.log",
+            "hash": "97e56bf9d6f18275d6f9838613be3900c82fcb82f2e51c12be11f1969f08dca8"
+        },
+        {
+            "date": 1718021103453,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\successes\\phu-2024-10-06-18-success.log",
+            "hash": "70bdd2b8544eab11c39586cb7b4ec6861e355be4dacf0ec09bbf22263b0c76b0"
+        },
+        {
+            "date": 1718024818251,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\successes\\phu-2024-10-06-19-success.log",
+            "hash": "db7b2b4857a3edf7c2075729caa3bfc840233c96de3ca15e6a332bf2800e7f76"
+        },
+        {
+            "date": 1718034698266,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\successes\\phu-2024-10-06-21-success.log",
+            "hash": "9eedc8a113ceb2eb091659c10f91c4dca76d1fc18ac1f3e547fb85b2841e080d"
+        },
+        {
+            "date": 1718039640151,
+            "name": "H:\\profetionalWeb\\blog-sell-safari-server\\logs\\winston\\successes\\phu-2024-10-06-23-success.log",
+            "hash": "c08599feca6cc01d9fae0fc5b3d4da9fa8f9a4a1b9e2471f7c1a649c61f13ec4"
+        }
+    ],
+    "hashType": "sha256"
+}
