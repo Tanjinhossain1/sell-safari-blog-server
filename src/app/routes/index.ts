@@ -1,12 +1,12 @@
 import express from 'express';
-import { imageUploaderRoutes } from '../modules/academicDepartment/imageUploader.routes';
+import { createArticleRoutes } from '../modules/createArticle/createArticle.routes';
 
 const router = express.Router();
 
 const moduleRoutes = [ 
   {
-    path: '/image',
-    route: imageUploaderRoutes
+    path: '/article',
+    route: createArticleRoutes
   }
 ];
 
